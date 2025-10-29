@@ -1,0 +1,3 @@
+#Create a ship with stocked torpedo stores that always fails
+GT4500,10,1.0,10,1.0
+TORPEDO,SINGLE # Should have return with fail
