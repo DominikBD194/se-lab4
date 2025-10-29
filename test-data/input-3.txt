@@ -1,0 +1,3 @@
+#Create a ship without torpedo and try to fire them
+GT4500,0,0,0,0
+TORPEDO.ALL # Should return with fail
