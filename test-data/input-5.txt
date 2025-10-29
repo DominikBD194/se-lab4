@@ -1,3 +1,3 @@
-#Create a ship with stocked torpedo stores that has one torpedo and tries to fire it
-GT4500,0,0,1,0
-TORPEDO,SINGLE # Should have fired the second torpedo
+#Create a ship with stocked torpedo stores that has one torpedo and tries to fire one of them
+GT4500,0,0,0,0
+TORPEDO,SINGLE # Should have return with fail

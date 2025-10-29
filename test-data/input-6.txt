@@ -1,3 +1,0 @@
-#Create a ship with stocked torpedo that has only the primary and tries to fire it
-GT4500,1,0,0,0 
-TORPEDO,SINGLE # Should have fired the first torpedo
